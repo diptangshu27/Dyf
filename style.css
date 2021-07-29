@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding-top: 80px;
+    background: linear-gradient(#95c288 0%, #27ae60 100%);
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    line-height: 1.2;
+    font-family: inherit;
+    font-weight: 300;
+}
+h2{
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: monospace;
+    font-weight: 300;
+}
